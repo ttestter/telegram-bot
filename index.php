@@ -1,5 +1,5 @@
 <?php
-$token = "7824369351:AAFvf52MWn-B7emEZ1msYjFHZTwbib8HlVw";
+$token = "7920605704:AAEvWBDyhCwFaoeSwhKIhXS2ZvPfydk-6GQ";
 
 $content = file_get_contents("php://input");
 $update = json_decode($content, true);
