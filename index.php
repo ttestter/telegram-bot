@@ -1,5 +1,5 @@
 <?php
-$token = "توکن_ربات_تو_اینجا";
+$token = "7824369351:AAFvf52MWn-B7emEZ1msYjFHZTwbib8HlVw";
 
 $content = file_get_contents("php://input");
 $update = json_decode($content, true);
